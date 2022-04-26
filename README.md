@@ -1,4 +1,5 @@
-# Explainable Anomaly Detection System for Categorical Sensor Data in Internet of Things
+
+<h1 align="center">Explainable Anomaly Detection System for Categorical Sensor Data in Internet of Things</h1>
 <p align="center">
 Peng Yuan<sup>1</sup>, Lu-An Tang<sup>1</sup>, Haifeng Chen<sup>1</sup>, Moto Sato<sup>1</sup>, and Kevin Woodward<sup>2</sup>
 </p>
